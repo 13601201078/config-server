@@ -2,4 +2,4 @@ server:
   port: 8551
 spring:
   application:
-    name: spring-cloud-config-server
+    name: service-client
