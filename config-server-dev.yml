@@ -1,5 +1,0 @@
-server:
-  port: 8551
-spring:
-  application:
-    name: service-client
