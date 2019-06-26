@@ -1,4 +1,4 @@
 server:
     port: 8010
-vps: 
+vps:
     url: http://127.0.0.1:8220/test
